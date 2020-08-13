@@ -5,7 +5,6 @@ This repo serves as a documentation for the codes that i tried to do for the End
 
 
 ## Usage
----
 This entire code is meant to work with a raspberry pi and a USB WebCam connect to it. All of the workplace should be in a raspbian linux environment.
 
 Before using the code, please make sure the following points are fulfilled.
@@ -16,7 +15,6 @@ Before using the code, please make sure the following points are fulfilled.
 If any of the above is not fulfilled, refer to the step on how to execute.
 
 ## Setup
----
 ### Installing `imutils`.
 1. Install it via pip by running this in terminal:
     ```bash
@@ -35,7 +33,6 @@ If any of the above is not fulfilled, refer to the step on how to execute.
     ```
 
 ## Usage
----
 ### Running the script(Please run it from terminal)
 1. Running a python script
     1. Open terminal.
