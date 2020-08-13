@@ -4,7 +4,7 @@
 This repo serves as a documentation for the codes that i tried to do for the End-Of-Term assignment for Elective Code EP0401.
 
 
-## Usage
+## Summary
 This entire code is meant to work with a raspberry pi and a USB WebCam connect to it. All of the workplace should be in a raspbian linux environment.
 
 Before using the code, please make sure the following points are fulfilled.
