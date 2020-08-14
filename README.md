@@ -40,5 +40,5 @@ If any of the above is not fulfilled, refer to the step on how to execute.
         ```bash
         python <python file name>
         e.g.: 
-        python videostream_demo.py
+        python pi_surveillance.py
         ```
