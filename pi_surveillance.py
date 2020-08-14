@@ -1,7 +1,5 @@
 # import the necessary packages
 from pyimagesearch.tempimage import TempImage
-from picamera.array import PiRGBArray
-from picamera import PiCamera
 import argparse
 import warnings
 import datetime
