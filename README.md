@@ -24,7 +24,7 @@ If any of the above is not fulfilled, refer to the step on how to execute.
 1. Install it via pip by running this in terminal:
     > Attention: **This is not the official built version**
     ```bash
-    pip install opencv-contrib-python
+    pip install opencv-python
     ```
 ### Installing `DropBox`
 1. Install it via pip by running this in terminal:
